@@ -1,0 +1,15 @@
+div{
+height: 100px;
+width: 150px;
+background-color: aqua;
+border: 2px solid black;
+transition-duration: 2s;
+}
+
+div:hover{
+background-color: blue;
+font-size: 20px;
+}
+div:active{
+background-color: brown;
+}
